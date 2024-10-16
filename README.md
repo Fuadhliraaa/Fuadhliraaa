@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Fuadhliraaa
 - 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Java for Backend
+- 🌱 I’m work as Java Backend Developer 3 years experiences
 - 💞️ I’m looking to collaborate
